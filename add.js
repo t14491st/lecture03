@@ -2,7 +2,7 @@
 var a;
 var b;
 
-var frac =　function(bunshi, bunbo){
+var frac = function(bunshi, bunbo){
   var bunsu = {
     bunshi : bunshi,
     bunbo : bunbo
